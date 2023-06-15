@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Group Focus**
 
-- 🌱 Estoy estudinado Backend en **Alura Latam**
+- 🌱 Estoy estudiando Backend en **Alura Latam**
 
 - 👨‍💻 Mis proyectos aquí [https://github.com/JeisonMontoya](https://github.com/JeisonMontoya)
 
