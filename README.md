@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Group Focus**
 
-- 🌱 Estoy estudiando Backend en **Alura Latam**
+- 🌱 Estoy estudiando ingeniería informática en **Universidad Militar Nueva Granada**
 
 - 👨‍💻 Mis proyectos aquí [https://github.com/JeisonMontoya](https://github.com/JeisonMontoya)
 
