@@ -9,7 +9,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://avatars.githubusercontent.com/u/66890219?v=4"  />
+<img data-importer="image" align="right" height="150" src="https://avatars.githubusercontent.com/u/66890219?s=400&u=2b1a043f64f89c64fd67d56b88c06047413012e9&v=4"  />
 
 ###
 
